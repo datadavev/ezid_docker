@@ -18,7 +18,7 @@ docker build --tag base_aws:1.0 .
 Create container:
 
 ```
-docker run -it --name aw_ezid_1 base_aws:1.0
+docker run --publish 18080:18080 -it --name aw_ezid_1 base_aws:1.0
 ```
 
 Restart container:
@@ -31,4 +31,16 @@ Remove container:
 
 ```
 docker container rm aw_ezid_1
+```
+
+List images:
+
+```
+docker images  
+```
+
+Remove an image:
+
+```
+docker image rm HASH
 ```
