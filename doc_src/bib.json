@@ -1,0 +1,5 @@
+[
+  {"id":"HowAccessHost","accessed":{"date-parts":[[2020,8,26]]},"container-title":"Stack Overflow","title":"How to access host port from docker container","type":"webpage","URL":"https://stackoverflow.com/questions/31324981/how-to-access-host-port-from-docker-container"},
+  {"id":"InstallingUsingMariaDB","abstract":"Creating and managing a MariaDB Docker container.","accessed":{"date-parts":[[2020,8,26]]},"container-title":"MariaDB KnowledgeBase","title":"Installing and Using MariaDB via Docker","type":"webpage","URL":"https://mariadb.com/kb/en/installing-and-using-mariadb-via-docker/"},
+  {"id":"MySQLMySQLReference","accessed":{"date-parts":[[2020,8,26]]},"title":"MySQL :: MySQL 8.0 Reference Manual :: 4.5.4 mysqldump — A Database Backup Program","type":"webpage","URL":"https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html"}
+]

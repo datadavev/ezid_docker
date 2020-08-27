@@ -1,0 +1,11 @@
+[auth]
+admin_password: ADMIN_PASSWORD
+
+[databases]
+store_host: DB_HOST
+store_port: DB_PORT
+store_password: DB_PASSWORD
+
+search_host: DB_HOST
+search_port: DB_PORT
+search_password: DB_PASSWORD
